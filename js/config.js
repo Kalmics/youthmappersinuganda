@@ -58,7 +58,6 @@ var config = {
         "https://live.staticflickr.com/65535/52700139870_a0a69bc16f_q.jpg",
       description:
         "A mapping group located at Makerere University known for translating spatial thinking into practical applications is called Geo YouthMappers. With OSM, we have worked together on a number of mapping initiatives. Our primary goal is to streamline data and make it easily accessible, primarily for disaster planning. "We map the planet and transform life." ",
-
       location: {
         center: [32.5686, 0.3326], 
         zoom: 8.5,
