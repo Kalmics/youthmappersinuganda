@@ -88,7 +88,7 @@ var config = {
         "Good mappers is a team of students in Busitema University. Its main objective is to create a community of experienced mappers who can contribute to the world map.",
       location: {
         center: [34.0200, 0.5453],
-        zoom: 15,
+        zoom: 17,
         pitch: 8.01,
         bearing: 0.0,
       },
@@ -99,7 +99,28 @@ var config = {
       onChapterExit: [],
     },
     {
-      id: "fourth-chapter",
+      id: "fourth-identifier",
+      alignment: "right",
+      hidden: false,
+      title: "CSGU Mappers, Gulu University",
+      image:
+        "https://live.staticflickr.com/65535/52700274044_537fa4eac3_q.jpg",
+      description:
+        "The computing society at Gulu University is known as the CSGU Mappers. Beyond anyone's wildest dreams, this chapter is imaginative, passionate, inventive, and prepared to map both Uganda and the entire world.",
+      location: {
+        center: [32.3169, 2.7881],
+        zoom: 16,
+        pitch: 8.01,
+        bearing: 0.0,
+      },
+      mapAnimation: "flyTo",
+      rotateAnimation: false,
+      callback: "",
+      onChapterEnter: [],
+      onChapterExit: [],
+    },
+    {
+      id: "fifth-chapter",
       alignment: "fully",
       hidden: false,
       title: "Conclusion",
