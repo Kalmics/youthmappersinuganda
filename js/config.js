@@ -11,7 +11,7 @@ var config = {
   theme: "light",
   use3dTerrain: false, //set true for enabling 3D maps.
   auto: false,
-  title: "African Digital Access Initiative(ADAI)",
+  title: "YouthMappers Chapters in Uganda",
   subtitle: "Promoting ICT education in schools through Mapping ",
   byline: "",
   footer:
