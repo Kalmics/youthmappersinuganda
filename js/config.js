@@ -28,7 +28,7 @@ var config = {
         "<p>YouthMappers is an international network of university-student-led chapters that was created in 2014 and launched on Capitol Hill in November 2015.The organization's goal is to produce the next generation of leaders and build resilient communities by giving young people the tools they need to define and transform their own worlds through mapping. Chapters of YouthMappers plan, work together, and carry out mapping initiatives that address global development issues in real time, using geospatial data and information that is made available to the public through open platforms. A global community of students, researchers, teachers, and academics known as YouthMappers uses free geographic data to directly address globally framed development concerns.</p> ",
       location: {
         center: [32.5944272, 0.3418314],
-        zoom: 5,
+        zoom: 0,
         pitch: 60,
         bearing: 0,
       },
