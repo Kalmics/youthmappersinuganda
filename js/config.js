@@ -28,7 +28,7 @@ var config = {
         "<p>YouthMappers is an international network of university-student-led chapters that was created in 2014 and launched on Capitol Hill in November 2015.The organization's goal is to produce the next generation of leaders and build resilient communities by giving young people the tools they need to define and transform their own worlds through mapping. Chapters of YouthMappers plan, work together, and carry out mapping initiatives that address global development issues in real time, using geospatial data and information that is made available to the public through open platforms. A global community of students, researchers, teachers, and academics known as YouthMappers uses free geographic data to directly address globally framed development concerns.</p> ",
       location: {
         center: [32.5944272, 0.3418314],
-        zoom: 0,
+        zoom: 5,
         pitch: 60,
         bearing: 0,
       },
@@ -53,14 +53,14 @@ var config = {
       id: "second-identifier",
       alignment: "right",
       hidden: false,
-      title: "Gulu City",
+      title: "Geo Youthmapers",
       image:
-        "https://lh5.googleusercontent.com/p/AF1QipOUMsY23DcuAdZ4cWn47nIXVSB6srfpzd-9VCsv=w427-h240-k-no",
+        "https://live.staticflickr.com/65535/52700139870_a0a69bc16f_q.jpg",
       description:
-        "Gulu is a city in the Northern Region of Uganda. It is the commercial and administrative centre of Gulu District. The coordinates of the city of Gulu are 2°46'54.0''N 32°17'57.0 ''E. The distance from Gulu to Kampala, Uganda's capital and largest city, is approximately 333 kilometres by road. ",
+        "A mapping group located at Makerere University known for translating spatial thinking into practical applications is called Geo YouthMappers. With OSM, we have worked together on a number of mapping initiatives. Our primary goal is to streamline data and make it easily accessible, primarily for disaster planning. "We map the planet and transform life." ",
 
       location: {
-        center: [32.2529403, 2.7754066],
+        center: [32.5686, 0.3326], 
         zoom: 8.5,
         pitch: 60,
         bearing: -43.2,
