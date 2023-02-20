@@ -12,7 +12,7 @@ var config = {
   use3dTerrain: false, //set true for enabling 3D maps.
   auto: false,
   title: "YouthMappers Chapters in Uganda",
-  subtitle: "Promoting ICT education in schools through Mapping ",
+  subtitle: "We don't just build maps. We build mappers ",
   byline: "",
   footer:
     'Created by <a href="https://mapuganda.org" target="_blank">OpenstreetMap Uganda</a>.',
@@ -21,11 +21,11 @@ var config = {
       id: "slug-style-id",
       alignment: "left",
       hidden: false,
-      title: "OpenStreetMap in Schools",
+      title: "Youthmappers",
       image:
-        "https://stories.hotosm.org/openstreetmap-in-schools/assets/bk9pZS0QU9/fzn4wjaxeaauox6-2048x1365.jpeg",
+        "https://live.staticflickr.com/65535/52699159852_a3e2f2033f_q.jpg",
       description:
-        "<p>The 'OpenStreetMap in Schools' project looks at introducing OpenStreetMap and open mapping techniques in schools to bolster the learning of geography while increasing the uptake of STEM education in schools.</p> <p>OSM Uganda will execute the project in 4 districts: Kisoro, Terego, Arua City, and Arua district, located in the South Western and West Nile regions of Uganda. Building on the OpenStreetMap in Schools pilot training that OpenStreetMap Uganda and Humanitarian OpenStreetMap Team (HOT) carried out in 2018, OpenStreetMap Uganda plans to revitalize these activities across 8 schools with plans to scale up the project each year. The OpenStreetMap in Schools project is targeting 200 teachers and 5,000 students across these secondary school institutions.</p> ",
+        "<p>YouthMappers is an international network of university-student-led chapters that was created in 2014 and launched on Capitol Hill in November 2015.The organization's goal is to produce the next generation of leaders and build resilient communities by giving young people the tools they need to define and transform their own worlds through mapping. Chapters of YouthMappers plan, work together, and carry out mapping initiatives that address global development issues in real time, using geospatial data and information that is made available to the public through open platforms. A global community of students, researchers, teachers, and academics known as YouthMappers uses free geographic data to directly address globally framed development concerns.</p> ",
       location: {
         center: [32.5944272, 0.3418314],
         zoom: 8.5,
