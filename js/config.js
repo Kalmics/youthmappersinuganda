@@ -28,7 +28,7 @@ var config = {
         "<p>YouthMappers is an international network of university-student-led chapters that was created in 2014 and launched on Capitol Hill in November 2015.The organization's goal is to produce the next generation of leaders and build resilient communities by giving young people the tools they need to define and transform their own worlds through mapping. Chapters of YouthMappers plan, work together, and carry out mapping initiatives that address global development issues in real time, using geospatial data and information that is made available to the public through open platforms. A global community of students, researchers, teachers, and academics known as YouthMappers uses free geographic data to directly address globally framed development concerns..</p> ",
       location: {
         center: [32.5944272, 0.3418314],
-        zoom: 8.5,
+        zoom: 5,
         pitch: 60,
         bearing: 0,
       },
@@ -53,15 +53,15 @@ var config = {
       id: "second-identifier",
       alignment: "right",
       hidden: false,
-      title: "Geo Youthamppers",
+      title: "Geo Youthamppers, Makerere University",
       image:
         "https://live.staticflickr.com/65535/52700139870_a0a69bc16f_q.jpg",
       description:
         "A mapping group located at Makerere University known for translating spatial thinking into practical applications is called Geo YouthMappers. With OSM, we have worked together on a number of mapping initiatives. Our primary goal is to streamline data and make it easily accessible, primarily for disaster planning. 'We map the planet and transform life.' ",
 
       location: {
-        center: [0.3326, 32.5686],
-        zoom: 8.5,
+        center: [32.5686, 0.3326],
+        zoom: 10,
         pitch: 60,
         bearing: -43.2,
         // flyTo additional controls-
@@ -81,14 +81,14 @@ var config = {
       id: "third-identifier",
       alignment: "left",
       hidden: false,
-      title: "Lira City",
+      title: "Good Mappers, Busitema University",
       image:
-        "https://lh5.googleusercontent.com/p/AF1QipP8hW-Uu7VNWrO65AVRmitfIq6ZByteVzFkKjF3=w408-h306-k-no",
+        "https://live.staticflickr.com/65535/52700251758_e249581b56_q.jpg",
       description:
-        "Lira is a city in the Northern Region of Uganda. It is the main municipal, administrative, and commercial centre of Lira District.",
+        "Good mappers is a team of students in Busitema University. Its main objective is to create a community of experienced mappers who can contribute to the world map.",
       location: {
-        center: [32.8523878, 2.2580829],
-        zoom: 12.52,
+        center: [34.0200, 0.5453],
+        zoom: 15,
         pitch: 8.01,
         bearing: 0.0,
       },
@@ -102,13 +102,13 @@ var config = {
       id: "fourth-chapter",
       alignment: "fully",
       hidden: false,
-      title: "Masaka City",
+      title: "Conclusion",
       image:
-        "https://lh5.googleusercontent.com/p/AF1QipMHAdPwpU_FiV-CAC2wcwOziz_RqOarpgGynnyN=w426-h240-k-no",
+        "https://live.staticflickr.com/65535/52699830281_27175b0e53_q.jpg",
       description:
-        "Masaka is approximately 132 kilometres (82 mi) to the south-west of Kampala on the highway to Mbarara.[4] The city is close to the Equator. The coordinates of Masaka are 0°20'28.0''S, 31°44'10.0''E (Latitude:-0.341111; Longitude:31.736111). Masaka lies at an average elevation of 1,288 metres (4,226 ft) above sea level.",
+        "YouthMappers has significantly impacted Uganda through a number of mapping initiatives and chapters. Uganda Water Infrastructure Mapping Project U-WIMP is one noteworthy project that was started by the YouthMappers Chapter at Gulu University in collaboration with YouthMappers, West Virginia University, the Water Point Data Exchange (WPdx), and the U.S. Agency for International Development (USAID) . The U-WIMP initiative aims to train local people and students in mapping techniques, as well as map and monitor Uganda's water infrastructure.Uganda has one of the largest numbers of YouthMappers chapters per country, with a majority located in Eastern Uganda (Busia, Mbale, and Kumi) and two dispersed in Kampala and Gulu. These chapters are university-student led. After a student mapped more than 80,000 edits for a group project located in the Bidibidi refugee camps in northern Uganda, Chad Blevins, director of the Mapping for Resilience Program in the USAID GeoCenter, paid particular attention to the impact of YouthMappers in Uganda. Additionally, with assistance from the USAID GeoCenter and HOT, Makerere University's YouthMappers chapter, Geo YouthMappers, is mapping COVID-19 hotspot regions at Ugandan border crossing sites. Their effort benefits international and nonprofit groups battling the pandemic.The greatest editing has taken place in Uganda, Zimbabwe, and Mali among all African nations, while contributions to YouthMappers features by nation from 2016 to 2022 are considerable in Western African and Eastern African nations.",
       location: {
-        center: [31.717877, -0.3379779],
+        center: [32.5944272, 0.3418314],
         zoom: 12.52,
         pitch: 0,
         bearing: 0,
