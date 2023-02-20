@@ -130,7 +130,7 @@ var config = {
         "YouthMappers has significantly impacted Uganda through a number of mapping initiatives and chapters. Uganda Water Infrastructure Mapping Project U-WIMP is one noteworthy project that was started by the YouthMappers Chapter at Gulu University in collaboration with YouthMappers, West Virginia University, the Water Point Data Exchange (WPdx), and the U.S. Agency for International Development (USAID) . The U-WIMP initiative aims to train local people and students in mapping techniques, as well as map and monitor Uganda's water infrastructure.Uganda has one of the largest numbers of YouthMappers chapters per country, with a majority located in Eastern Uganda (Busia, Mbale, and Kumi) and two dispersed in Kampala and Gulu. These chapters are university-student led. After a student mapped more than 80,000 edits for a group project located in the Bidibidi refugee camps in northern Uganda, Chad Blevins, director of the Mapping for Resilience Program in the USAID GeoCenter, paid particular attention to the impact of YouthMappers in Uganda. Additionally, with assistance from the USAID GeoCenter and HOT, Makerere University's YouthMappers chapter, Geo YouthMappers, is mapping COVID-19 hotspot regions at Ugandan border crossing sites. Their effort benefits international and nonprofit groups battling the pandemic.The greatest editing has taken place in Uganda, Zimbabwe, and Mali among all African nations, while contributions to YouthMappers features by nation from 2016 to 2022 are considerable in Western African and Eastern African nations.",
       location: {
         center: [32.5944272, 0.3418314],
-        zoom: 12.52,
+        zoom: 10,
         pitch: 0,
         bearing: 0,
       },
