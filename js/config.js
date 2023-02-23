@@ -120,7 +120,28 @@ var config = {
       onChapterExit: [],
     },
     {
-      id: "fifth-chapter",
+      id: "fifth-identifier",
+      alignment: "left",
+      hidden: false,
+      title: "HiTech Youth Mappers, Uganda Pentecostal University",
+      image:
+        "https://live.staticflickr.com/65535/52706234908_b7757870d8_q.jpg",
+      description:
+        "A new Youthmappers Chapter in Western Uganda. Ready to map and provide open data with OpenStreetMap for development purposes.",
+      location: {
+        center: [30.2662, 0.6620],
+        zoom: 17,
+        pitch: 8.01,
+        bearing: 0.0,
+      },
+      mapAnimation: "flyTo",
+      rotateAnimation: false,
+      callback: "",
+      onChapterEnter: [],
+      onChapterExit: [],
+    },
+    {
+      id: "sixth-chapter",
       alignment: "fully",
       hidden: false,
       title: "Conclusion",
