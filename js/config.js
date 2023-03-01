@@ -183,7 +183,49 @@ var config = {
       onChapterExit: [],
     },
     {
-      id: "eighth-chapter",
+      id: "eighth-identifier",
+      alignment: "right",
+      hidden: false,
+      title: "MUST Street Mappers, Mbarara University of Science and Technology",
+      image:
+        "https://live.staticflickr.com/65535/52719389984_80e52ee26b_q.jpg",
+      description:
+        "MUST Street Mappers is a Youth Mappers chapter at the Mbarara University of Science and Technology that is based on making our country and the world at large a better place through mapping. We base on collected information to notice patterns and data mine to present relevant and beneficial information to society.",
+      location: {
+        center: [30.6568, 0.6167],
+        zoom: 17,
+        pitch: 8.01,
+        bearing: 0.0,
+      },
+      mapAnimation: "flyTo",
+      rotateAnimation: false,
+      callback: "",
+      onChapterEnter: [],
+      onChapterExit: [],
+    },
+    {
+      id: "ninth-identifier",
+      alignment: "left",
+      hidden: false,
+      title: "KabU YouthMappers, Kabale University",
+      image:
+        "https://live.staticflickr.com/65535/52719402679_dd50c63f9e_q.jpg",
+      description:
+        "Its a Youthmappers Chapter at Kabale University",
+      location: {
+        center: [29.9882, 1.2723],
+        zoom: 15,
+        pitch: 8.01,
+        bearing: 0.0,
+      },
+      mapAnimation: "flyTo",
+      rotateAnimation: false,
+      callback: "",
+      onChapterEnter: [],
+      onChapterExit: [],
+    },
+    {
+      id: "tenth-chapter",
       alignment: "fully",
       hidden: false,
       title: "Conclusion",
