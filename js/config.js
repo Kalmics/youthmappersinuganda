@@ -141,7 +141,49 @@ var config = {
       onChapterExit: [],
     },
     {
-      id: "sixth-chapter",
+      id: "sixth-identifier",
+      alignment: "right",
+      hidden: false,
+      title: "Muni University YouthMappers Chapter (MUYMC)",
+      image:
+        "https://live.staticflickr.com/65535/52719190949_f98f3b6deb_q.jpg",
+      description:
+        "They are still an informal group of students with interests in Mapping, Cartography, GIS and Remote Sensing.",
+      location: {
+        center: [30.9268, 2.9962],
+        zoom: 17,
+        pitch: 8.01,
+        bearing: 0.0,
+      },
+      mapAnimation: "flyTo",
+      rotateAnimation: false,
+      callback: "",
+      onChapterEnter: [],
+      onChapterExit: [],
+    },
+    {
+      id: "seveth-identifier",
+      alignment: "left",
+      hidden: false,
+      title: "Luac YouthMappers, Lira University",
+      image:
+        "https://live.staticflickr.com/65535/52719199409_385f40017a_q.jpg",
+      description:
+        "Luac Youth Mappers chapter is a student chapter that gathers students from different faculties and areas of profession to train together and expertise on how to become mappers and develop their communities and the nation in particular.",
+      location: {
+        center: [32.8210, 2.2510],
+        zoom: 15,
+        pitch: 8.01,
+        bearing: 0.0,
+      },
+      mapAnimation: "flyTo",
+      rotateAnimation: false,
+      callback: "",
+      onChapterEnter: [],
+      onChapterExit: [],
+    },
+    {
+      id: "eighth-chapter",
       alignment: "fully",
       hidden: false,
       title: "Conclusion",
