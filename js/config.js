@@ -211,7 +211,7 @@ var config = {
       image:
         "https://live.staticflickr.com/65535/52719402679_dd50c63f9e_q.jpg",
       description:
-        "Its a Youthmappers Chapter at Kabale University",
+        "Its a Youthmappers Chapter at Kabale University which is a community of mappers that strive to make an impact in communities through mapping",
       location: {
         center: [29.9882, 1.2723],
         zoom: 15,
